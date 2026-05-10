@@ -21,6 +21,8 @@ As of now, it can:
 * Fill autocomplete fields (tailored to MUI)
 * Fill date fields (tailored to MUI)
 * Fill select fields (tailored to MUI)
+* Navigate to urls
+* Assert texts and urls
 
 The MUI tailored actions are not assured to work for equivalent fields made with other libraries or natively, but feel free to get a local copy and modify the source code to suit your needs. 
 
